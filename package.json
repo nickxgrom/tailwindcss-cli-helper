@@ -1,0 +1,26 @@
+{
+  "name": "tailwindcss-cli-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "twh": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickxgrom/tailwindcss-cli-helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickxgrom/tailwindcss-cli-helper/issues"
+  },
+  "homepage": "https://github.com/nickxgrom/tailwindcss-cli-helper#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
